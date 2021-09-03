@@ -1,0 +1,1 @@
+Attemped solutions to Project Euler problems
